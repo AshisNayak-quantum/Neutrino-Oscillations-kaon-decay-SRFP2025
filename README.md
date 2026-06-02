@@ -6,3 +6,4 @@ The project report can be accessed by clicking the link below or in the report f
 📄 [Read Full Report](report/Oscillations%20in%20kaon%20sector%20and%20neutrino%20sector-qiskit%20implementation.pdf)
 
 The jupyter notebook for the qiskit implementation can be accessed in the code folder or by clicking the link below:
+📄 [Access the code](code/Neutrino_oscillation_and_kaon_decay.ipynb)
